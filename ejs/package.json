@@ -1,0 +1,15 @@
+{
+  "name": "ejs-test",
+  "version": "1.0.0",
+  "description": "For the class at QC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
